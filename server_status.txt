@@ -1,1 +1,1 @@
-server up
+server down
