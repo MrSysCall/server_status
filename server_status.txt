@@ -1,1 +1,1 @@
-server up & running
+server down
